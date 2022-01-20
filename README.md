@@ -29,7 +29,7 @@ My Solution of the challenge:
 
 ### Links
 
-- Live Site URL: [URL](https://Srijan945.github.io.com)
+- Live Site URL: [URL](https://Srijan945.github.io)
 
 
 ### Built with
