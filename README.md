@@ -29,8 +29,7 @@ My Solution of the challenge:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [URL](https://Srijan945.github.io.com)
 
 
 ### Built with
@@ -42,8 +41,7 @@ My Solution of the challenge:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Resource-1](https://stackoverflow.com/questions/40769694/overlay-transparent-image-on-hover) - This really helped me in understanding how we can make use of PseudoElements for Image Overlay. 
 
 ## Author
 
