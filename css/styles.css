@@ -3,7 +3,6 @@ body{
     background-color: hsl(217, 54%, 11%);
     color: hsl(0, 0%, 100%);
     font-family: 'Outfit', sans-serif;
-    min-height: 716px;
 }
 a{
     color: white;
