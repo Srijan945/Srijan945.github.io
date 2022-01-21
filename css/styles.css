@@ -3,6 +3,16 @@ body{
     background-color: hsl(217, 54%, 11%);
     color: hsl(0, 0%, 100%);
     font-family: 'Outfit', sans-serif;
+    min-height: 716px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    transition: all 1s ease-in-out;
+}
+a:hover {
+    color: cyan;
+    cursor: pointer;
 }
 .card{
     background-color: hsl(216, 50%, 16%);
@@ -56,10 +66,8 @@ body{
 }
 #card-heading{
     text-align: left;
+    font-size: 1.375rem;
     font-weight: 600;
-}
-#card-heading:hover{
-    color: hsl(178, 100%, 50%);
 }
 .card-description{
     text-align: left;
@@ -99,7 +107,4 @@ span.credit{
 }
 .name-prefix{
     color: hsl(215, 51%, 70%);
-}
-.name:hover{
-    color: hsl(178, 100%, 50%);
 }
